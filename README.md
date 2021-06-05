@@ -11,7 +11,7 @@ I Spend most of time coding some cool projects.
 
 - 🔭 I’m currently a Student .
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me: haje.malick5@gmail.com.
+- 📫 How to reach me: haje.malik5@gmail.com.
 - 😄 Pronouns: Haj, Ndiaye, Debugger.
 - ⚡ Fun fact: I Watch movies and doing sport very often.
 
