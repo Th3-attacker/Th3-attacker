@@ -9,7 +9,7 @@ I Spend most of time coding some cool projects.
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently a Student .
+- 🔭 I’m web Developer .
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: haje.malik5@gmail.com.
 - 😄 Pronouns: Haj, Ndiaye, Debugger.
