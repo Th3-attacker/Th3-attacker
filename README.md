@@ -38,7 +38,6 @@
 
 
 <h1 align="left">
-    <img src="https://avatars.githubusercontent.com/u/39386799?s=256&v=4" alt="NobleMajo" height="32" />
     <u>
         About me
     </u>
