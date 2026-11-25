@@ -1,139 +1,70 @@
+# Full-stack & Mobile Developer
 
-<div style="width: 100%;" align="center">
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/NobleMajo">
-        <img src="https://img.shields.io/badge/@Noble-Majo-purple?logo=h&logoColor=white&style=for-the-badge" alt="NobleMajo">
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.hannover.de">
-        <img src="https://img.shields.io/badge/dynamic/json?color=green&label=Region&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNobleMajo&style=for-the-badge" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/NobleMajo?tab=followers">
-        <img src="https://komarev.com/ghpvc/?username=NobleMajo&label=Guests&color=0e75b6&style=for-the-badge" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/NobleMajo">
-        <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNobleMajo&style=for-the-badge" />
-    </a>
-</div>
+**React Native (Expo) · Supabase · React · TypeScript · TanStack Start · Prisma / PostgreSQL**
 
+I build MVPs and production-ready apps, from the database to the app store.
+I have worked on fintech and payment web apps as well as offline-first mobile apps,
+with multilingual interfaces (English, French, Arabic with full RTL support).
 
-<div style="width: 100%;" align="center">
-    <p style="width: 100%;" align="center">
-      Just another Software & DevOps Engineer from Hannover, Germany
-    </p>
-    <a target="_blank" rel="noopener noreferrer" href="https://discord.com/invite/GJSbyJ5Jpe">
-        <img src="https://img.shields.io/badge/discord-a?logo=discord&color=5764f2&logoColor=white&style=for-the-badge" alt="Discord Server" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/~noblemajo">
-        <img src="https://img.shields.io/badge/npm-a?logo=npm&logoColor=white&color=cc3630&style=for-the-badge" alt="NPM" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://hub.docker.com/u/noblemajo">
-        <img src="https://img.shields.io/badge/dockerhub-a?logo=docker&logoColor=white&color=0db7ed&style=for-the-badge" alt="DockerHub" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/31ps5lujrgihfsl2db4rn5gpiiqa">
-        <img src="https://img.shields.io/badge/spotify-a?logo=youtube&color=21D05D&logoColor=white&style=for-the-badge" alt="Spotify" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://telegram.me/NobleMajo">
-        <img src="https://img.shields.io/badge/telegram-a?logo=telegram&color=30ADED&logoColor=white&style=for-the-badge" alt="Telegram" />
-    </a>
-</div>
+**Currently open to freelance projects** — mobile apps, web apps and Supabase backends.
 
+[![GitHub](https://img.shields.io/badge/GitHub-Th3--attacker-181717?style=flat&logo=github)](https://github.com/Th3-attacker)
+[![Website](https://img.shields.io/badge/Website-th3--attacker.github.io-0A66C2?style=flat&logo=githubpages&logoColor=white)](https://th3-attacker.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elhadj-malick/)
+<!-- add your email: [![Email](https://img.shields.io/badge/Email-you%40example.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:you@example.com) -->
+<!-- add your Upwork / Malt profile link here -->
 
-<h1 align="left">
-    <u>
-        About me
-    </u>
-</h1>
+## Tech stack
 
-<img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
-<p align="left">
-    - ⚡ My approach: <b>learn from mistakes</b><br>
-    - 🌟 Checkout my <a href="https://github.com/th3-attacker?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
-    - 🔗 Following me, is <b><i>FREE</i></b>...<br>
-    - 📫 Reach me via my <b><a href="https://www.linkedin.com/in/elhadj-malick/">Linktree</a></b><br>
-    - 💬 Ask me about: <b><i>typescript, go, docker, <br> devops, nodejs, web, cli or my projects</i></b><br>
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=flat&logo=expo&logoColor=white)
+![EAS](https://img.shields.io/badge/EAS_Build-000020?style=flat&logo=expo&logoColor=white)
+
+**Web**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack_Start_%2F_Router_%2F_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+
+**Backend & data**
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**Quality & delivery**
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white)
+
+## Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**sama-jamm**](https://github.com/Th3-attacker/sama-jamm) | Offline-first mobile app: Quran reading, prayer times, personal budget, and collective Quran khatm synced through Supabase. | Expo, React Native, Supabase, SQLite |
+| [**ma-routine**](https://github.com/Th3-attacker/ma-routine) | Installable offline PWA for daily routines (prayer tracking, habits, budget, projects) in French and Arabic. [Live demo](https://th3-attacker.github.io/ma-routine/) | React, Vite, TanStack, Tailwind, Dexie |
+| [**solelrim**](https://github.com/Th3-attacker/solelrim) | Multi-store e-commerce platform: one codebase, several branded shops, admin dashboard, fr/en/ar with RTL. | TanStack Start, Prisma, Supabase, Tailwind |
+
+I also build fintech and payment web apps (private client work).
+
+## GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Th3-attacker&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3-attacker&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
-<br>
-<h1 align="left"><u>Github stats</u></h1>
+---
 
-<p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
-</p>
-
-<p align="center" style="width: 100%;">
-    <span style="width: 100%;">
-        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=NobleMajo&theme=onedark" alt="NobleMajo" />
-        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=NobleMajo&show_icons=true&locale=en&theme=onedark" alt="NobleMajo" />
-    </span>
-</p>
-
-
-
-<h1 align="left"><u>Recommendations</u></h1>
-
-Some Technologies that I use and can recommend.<br>
-Has no particular order and I have tested far more.<br>
-
-<p align="left">
-    <a href="https://golang.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"
-    width="92" height="92" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript" width="92" height="92" />
-    </a>
-    <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-    alt="express" width="92" height="92" />
-    </a>
-    <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="nodejs" width="92" height="92" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript" width="92" height="92" />
-    </a>
-    <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="92"
-    height="92" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-    alt="docker" width="92" height="92" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-    width="92" height="92" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="92" height="92" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-    alt="html5" width="92" height="92" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-    alt="css3" width="92" height="92" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-    alt="postgresql" width="92" height="92" />
-    </a>
-    <a href="https://redis.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-    alt="redis" width="92" height="92" />
-    </a>
-</p>
-
-<h1 align="left"><u>Linktree</u></h1>
-You can reach me and find my social media on my <a href="[https://www.linkedin.com/in/elhadj-malick/]">LinkedIn</a>. 
-
-<br><br>
-<hr>
-<p align="center">
-    <a href="https://github.com/th3-attacker?tab=repositories">projects</a> |
-    <a href="https://github.com/th3-attacker#langs--techs">techs</a>
-</p>
-<hr>
+**Have a project in mind?** I am available for freelance work — feel free to reach out.
